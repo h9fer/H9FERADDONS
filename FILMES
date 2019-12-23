@@ -1,6 +1,30 @@
 <channels>
 <channel>
 
+<name>LANCAMENTO</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
+<info></info>
+
+</channel>
+</channels>
+=======================================================================================================================
+<channels>
+<channel>
+
+<name>TODOS</name>
+<thumbnail></thumbnail>
+<externallink>http://</externallink>
+<fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
+<info></info>
+
+</channel>
+</channels>
+=========================================================================================================================
+<channels>
+<channel>
+
 <name>FAROESTE</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/h9fer/H9FERADDONS/master/FAROESTE</externallink>
@@ -9,3 +33,6 @@
 
 </channel>
 </channels>
+
+=================================================================================================================
+
