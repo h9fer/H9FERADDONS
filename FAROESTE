@@ -1,9 +1,9 @@
 Modelo Com, Varios Link
 
 <item>
-<title>[B] [COLOR] [/COLOR][/B]</title>
-<link>plugin://plugin.video.gdriver?mode=streamURL&amp;url=html aki$$lsname=[COLOR]HD[/COLOR]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[B][COLOR orangerred]O Cavaleiro Solitário (1985)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdriver?mode=streamURL&amp;url=https://drive.google.com/file/d/1YSWVgfHTiJ0psDKmK45uvIJ0fM7F8drn/view$$lsname=[COLOR]HD[/COLOR]</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGZjOWM3MWYtNTc5Yy00NGQ0LWFkMDQtOWUwYzhkNTZmNGI2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTczMjQyNTI4M15BMl5BanBnXkFtZTcwNzQ1MDUyNw@@._V1_SX1498_CR0,0,1498,999_AL_.jpg</fanart>
 <info></info>
 </item>
