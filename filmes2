@@ -1,9 +1,11 @@
-Modelo Com, Varios Link
+<channels>
+<channel>
 
-<item>
-<title>[B][COLOR orangerred]FAROESTE[/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/h9fer/H9FERADDONS/master/FAROESTE</link>
+<name>FAROESTE</name>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/h9fer/H9FERADDONS/master/FAROESTE</externallink>
+<fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
 <info></info>
-</item>
+
+</channel>
+</channels>
