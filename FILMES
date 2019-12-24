@@ -1,7 +1,7 @@
 <channels>
 <channel>
 
-<name>LANCAMENTO</name>
+<name>[COLOR yellow]LANCAMENTO[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
@@ -13,7 +13,7 @@
 <channels>
 <channel>
 
-<name>TODOS</name>
+<name>[COLOR yellow]TODOS[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/h9fer/H9FERADDONS/master/TODOS%20FILMES</externallink>
 <fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
@@ -25,7 +25,7 @@
 <channels>
 <channel>
 
-<name>FAROESTE</name>
+<name>[COLOR yellow]FAROESTE[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/h9fer/H9FERADDONS/master/FAROESTE</externallink>
 <fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
