@@ -1,7 +1,7 @@
 <channels>
 <channel>
 
-<name>FILMES</name>
+<name>[COLOR yellow]FILMES[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/h9fer/H9FERADDONS/master/FILMES</externallink>
 <fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
@@ -13,7 +13,7 @@
 <channels>
 <channel>
 
-<name>SERIES</name>
+<name>[COLOR yellow]SERIES[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart>https://ia801503.us.archive.org/11/items/fanart_20191223_0610/fanart.jpg</fanart>
